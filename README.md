@@ -228,3 +228,15 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
 # Rafeef's deployed portfolio on Netlify:
 https://rafeef-portfolio.netlify.app/
+
+
+
+Number and name of feature: Finishing and deploying portfolio
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 7 pm
+
+Finish time: 9pm
+
+Actual time needed to complete: 2 hours
